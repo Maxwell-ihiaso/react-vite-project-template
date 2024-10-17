@@ -1,2 +1,2 @@
 
-npx lint-staged && yarn build
+npx lint-staged && yarn build && rm -rf dist
